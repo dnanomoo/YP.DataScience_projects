@@ -1,6 +1,5 @@
 # YP.DataScience_projects
-Yandex Practicum 
-  - DA, DS, ML and NLP
+Yandex Practicum Data Analysis, Data Science, Machine Learning and 
 
 - Jupyter Notebook
 - Python
@@ -13,6 +12,7 @@ Yandex Practicum
    - sklearn.tree
    - sklearn.ensemble
    - sklearn.model_selection
+   - sklearn.preprocessing
 - Seaborn
 - Scipy
 
