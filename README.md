@@ -1,5 +1,7 @@
 # YP.DataScience_projects
-Yandex Practicum Data Analysis, Data Science, Machine Learning and 
+Yandex Practicum Data Science
+
+## Инструменты и библиотеки используемые в этом репозитории:
 
 - Jupyter Notebook
 - Python
@@ -18,4 +20,6 @@ Yandex Practicum Data Analysis, Data Science, Machine Learning and
 - Catboost
 - SQL
    - PostgreSQL
+- Tensorflow
+   - Keras
   
