@@ -15,6 +15,7 @@ Yandex Practicum Data Analysis, Data Science, Machine Learning and
    - sklearn.preprocessing
 - Seaborn
 - Scipy
-
+- Catboost
 - SQL
+   - PostgreSQL
   
