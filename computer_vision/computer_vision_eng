@@ -1,0 +1,22 @@
+Description of the project.
+
+  Purpose
+Build a model that will determine the approximate age of a person from a photograph.
+
+
+  Tasks
+Upload and analyze photos. 
+Prepare the data for training. 
+Train a neural network for a regression problem. MAE should be less than 7
+
+Data https://chalearnlap.cvc.uab.cat/dataset/26/description/
+
+Tools & Libraries
+  Pandas
+  Numpy
+  Tensorflow
+    Keras
+
+Result
+Tasks completed
+The neural network is trained with the metric MAE 6.5
